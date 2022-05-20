@@ -1,0 +1,23 @@
+{
+    "name": "@juqitech/stylelint-config",
+    "version": "1.0.0",
+    "description": "juqitech config for stylelint",
+    "keywords": [
+        "stylelint",
+        "stylelint-config",
+        "juqitech"
+    ],
+    "author": "juqitech",
+    "license": "MIT",
+    "repository": {
+        "type": "git"
+    },
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "dependencies": {
+        "stylelint": "^13.3.3",
+        "stylelint-config-standard": "^20.0.0"
+    }
+}
