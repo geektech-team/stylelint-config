@@ -1,8 +1,10 @@
+# Stylelint Config
+
 ## Usage
 
-在你的 .stylelintrc，加入
+在你的 stylelint.config.js，加入
 
-```json
+```js
 {
     "extends": ["@juqitech/stylelint-config"]
 }
