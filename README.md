@@ -6,6 +6,6 @@
 
 ```js
 {
-    "extends": ["@juqitech/stylelint-config"]
+    "extends": ["@geektech/stylelint-config"]
 }
 ```

@@ -1,13 +1,13 @@
 {
-    "name": "@juqitech/stylelint-config",
+    "name": "@geektech/stylelint-config",
     "version": "1.0.0",
-    "description": "juqitech config for stylelint",
+    "description": "geektech config for stylelint",
     "keywords": [
         "stylelint",
         "stylelint-config",
-        "juqitech"
+        "geektech"
     ],
-    "author": "juqitech",
+    "author": "geektech",
     "license": "MIT",
     "repository": {
         "type": "git"
