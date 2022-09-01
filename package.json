@@ -1,6 +1,6 @@
 {
   "name": "@geektech/stylelint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "geektech config for stylelint",
   "keywords": [
     "stylelint",
@@ -10,7 +10,8 @@
   "author": "geektech",
   "license": "MIT",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/geektech-team/stylelint-config.git"
   },
   "main": "index.js",
   "files": [
