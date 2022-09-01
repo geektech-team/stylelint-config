@@ -2,10 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   stylelint: ^14.11.0
-  stylelint-config-standard: ^20.0.0
+  stylelint-config-standard: ^28.0.0
 
 dependencies:
-  stylelint-config-standard: 20.0.0_stylelint@14.11.0
+  stylelint-config-standard: 28.0.0_stylelint@14.11.0
 
 devDependencies:
   stylelint: 14.11.0
@@ -781,21 +781,21 @@ packages:
   /style-search/0.1.0:
     resolution: {integrity: sha512-Dj1Okke1C3uKKwQcetra4jSuk0DqbzbYtXipzFlFMZtowbF1x7BKJwB9AayVMyFARvU8EDrZdcax4At/452cAg==}
 
-  /stylelint-config-recommended/3.0.0_stylelint@14.11.0:
-    resolution: {integrity: sha512-F6yTRuc06xr1h5Qw/ykb2LuFynJ2IxkKfCMf+1xqPffkxh0S09Zc902XCffcsw/XMFq/OzQ1w54fLIDtmRNHnQ==}
+  /stylelint-config-recommended/9.0.0_stylelint@14.11.0:
+    resolution: {integrity: sha512-9YQSrJq4NvvRuTbzDsWX3rrFOzOlYBmZP+o513BJN/yfEmGSr0AxdvrWs0P/ilSpVV/wisamAHu5XSk8Rcf4CQ==}
     peerDependencies:
-      stylelint: '>=10.1.0'
+      stylelint: ^14.10.0
     dependencies:
       stylelint: 14.11.0
     dev: false
 
-  /stylelint-config-standard/20.0.0_stylelint@14.11.0:
-    resolution: {integrity: sha512-IB2iFdzOTA/zS4jSVav6z+wGtin08qfj+YyExHB3LF9lnouQht//YyB0KZq9gGz5HNPkddHOzcY8HsUey6ZUlA==}
+  /stylelint-config-standard/28.0.0_stylelint@14.11.0:
+    resolution: {integrity: sha512-q/StuowDdDmFCravzGHAwgS9pjX0bdOQUEBBDIkIWsQuYGgYz/xsO8CM6eepmIQ1fc5bKdDVimlJZ6MoOUcJ5Q==}
     peerDependencies:
-      stylelint: '>=10.1.0'
+      stylelint: ^14.11.0
     dependencies:
       stylelint: 14.11.0
-      stylelint-config-recommended: 3.0.0_stylelint@14.11.0
+      stylelint-config-recommended: 9.0.0_stylelint@14.11.0
     dev: false
 
   /stylelint/14.11.0:
