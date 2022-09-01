@@ -2,7 +2,6 @@
 
 module.exports = {
   extends: ["stylelint-config-standard"],
-  ignoreFiles: ["dist/**/*.css"],
   rules: {
     // 未知伪类
     "selector-pseudo-class-no-unknown": [
