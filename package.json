@@ -1,22 +1,28 @@
 {
-    "name": "@geektech/stylelint-config",
-    "version": "0.0.1",
-    "description": "geektech config for stylelint",
-    "keywords": [
-        "stylelint",
-        "stylelint-config",
-        "geektech"
-    ],
-    "author": "geektech",
-    "license": "MIT",
-    "repository": {
-        "type": "git"
-    },
-    "main": "index.js",
-    "files": [
-        "index.js"
-    ],
-    "dependencies": {
-        "stylelint-config-standard": "^20.0.0"
-    }
+  "name": "@geektech/stylelint-config",
+  "version": "0.0.3",
+  "description": "geektech config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "geektech"
+  ],
+  "author": "geektech",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^14.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
